@@ -7,6 +7,8 @@ they can convert their temporary user account to a real user account.
 
 http://django-lazysignup.readthedocs.org/
 
+Tested on django-3.x and python-3.7.x
+
 ```
 requirements
 ---
